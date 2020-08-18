@@ -1,2 +1,4 @@
-# api-restify
-Api Rest com NodeJS, Restify e MongoDB
+# Ambiente Typescript + Jest 
+
+
+Template para iniciar projetos NodJS com Typescript
